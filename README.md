@@ -4,7 +4,8 @@ Instruções para utilizar o projeto:
 
 1- Mudar a configuração do banco de dados no arquivo appsettings.json
 
-2- Para realizar os testes também é necessário informar o caminho do seu banco de dados
+2- Para realizar os testes também é necessário informar o caminho do seu banco de dados. 
+No projeto IRTester classe UnitTesteIR
 
 
 3- Após feito esses passos inicie uma migration, em seu console do gerenciador de pacotes para gerar a base em sua máquina 
