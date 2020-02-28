@@ -214,3 +214,8 @@ C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\zh-Han
 C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\CalculadoraIR.dll
 C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\CalculadoraIR.pdb
+C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\source\repos\CalculadoraIR\IRtester\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

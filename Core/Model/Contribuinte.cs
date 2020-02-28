@@ -10,7 +10,7 @@ namespace Core.Model
     /// Estrutura dos Contribuentes
     /// </summary>
     [Table("Contribuintes")]
-    public class Contribuintes
+    public class Contribuinte
     {
         /// <summary>
         /// Chave responsável pelos dados na tabela
@@ -33,6 +33,6 @@ namespace Core.Model
         /// <summary>
         /// Renda Bruta Mensal
         /// </summary>
-        public double RendeBruta { get; set; }
+        public double RendaBruta { get; set; }
     }
 }

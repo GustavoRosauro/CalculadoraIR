@@ -15,11 +15,11 @@ namespace Core.Data
         public CalculadorIRContext(DbContextOptions<CalculadorIRContext> options)
         :base(options)
         { }
-        public DbSet<Contribuintes> Contribuintes { get; set; }
+        public DbSet<Contribuinte> Contribuintes { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //Nossa coluna CPF não aceitará valores duplicados 
-            modelBuilder.Entity<Contribuintes>
+            modelBuilder.Entity<Contribuinte>
                  ().HasIndex(x => x.CPF).IsUnique();
         }
     }

@@ -7,6 +7,7 @@ namespace Core.UnidadeDeTrabalho.Interfaces
 {
     public interface IContribuintesRepository
     {
-        bool Inserir(Contribuintes c);
+        bool Inserir(Contribuinte c);
+        IEnumerable<Contribuinte> RetornaContribuintes();
     }
 }
