@@ -61,7 +61,7 @@ namespace CalculadoraIR.Controllers
         /// <param name="c"></param>
         private double CalculaIr(double rendaBruta,double dependentes)
         {
-            double RendaLiquida = rendaBruta - (rendaBruta * ((dependentes * 5)/100));
+            double RendaLiquida = rendaBruta - (SalarioMinimo.Valor * ((dependentes * 5)/100));
             var resultado =  RendaLiquida / SalarioMinimo.Valor;
             if (resultado < 2)
             {
